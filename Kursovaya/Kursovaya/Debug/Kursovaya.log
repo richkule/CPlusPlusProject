@@ -1,0 +1,20 @@
+﻿  IsForm.cpp
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\IsForm.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(504,19): warning C4101: In2: неиспользованная локальная переменная
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(504,15): warning C4101: In1: неиспользованная локальная переменная
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(504,23): warning C4101: In3: неиспользованная локальная переменная
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\IsForm.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  OsForm.cpp
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\IsForm.cpp(7,34): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(504,19): warning C4101: In2: неиспользованная локальная переменная
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(504,15): warning C4101: In1: неиспользованная локальная переменная
+  Source.cpp
+  Создание кода...
+C:\Users\u2\source\repos\Kursovaya\Kursovaya\OsForm.h(504,23): warning C4101: In3: неиспользованная локальная переменная
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  InForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursovaya.vcxproj -> C:\Users\u2\source\repos\Kursovaya\Debug\Kursovaya.exe

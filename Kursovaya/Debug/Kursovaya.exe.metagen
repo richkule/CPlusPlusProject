@@ -1,0 +1,123 @@
+  Kursovaya.InForm.resources - Embedded, ContainedInManifestFile, 
+  Kursovaya.IsForm.resources - Embedded, ContainedInManifestFile, 
+  Kursovaya.OpForm.resources - Embedded, ContainedInManifestFile, 
+  Kursovaya.OsForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Kursovaya, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Kursovaya.InForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label label3 : Public
+    System.Windows.Forms.ListBox LBH1 : Public
+    System.Windows.Forms.ListBox LBN1 : Public
+    System.Windows.Forms.Label label2 : Public
+    System.Windows.Forms.Label label11 : Public
+    System.Windows.Forms.ListBox LBI1 : Public
+    System.Windows.Forms.Label label1 : Public
+    System.Windows.Forms.Label label4 : Public
+    System.Windows.Forms.Label label5 : Public
+    System.Windows.Forms.ListBox LBI2 : Public
+    System.Windows.Forms.Label label6 : Public
+    System.Windows.Forms.Label label7 : Public
+    System.Windows.Forms.ListBox LBH2 : Public
+    System.Windows.Forms.ListBox LBN2 : Public
+    System.Windows.Forms.Label label8 : Public
+    System.Windows.Forms.Label label9 : Public
+    System.Windows.Forms.ListBox LBI3 : Public
+    System.Windows.Forms.Label label10 : Public
+    System.Windows.Forms.Label label12 : Public
+    System.Windows.Forms.ListBox LBH3 : Public
+    System.Windows.Forms.ListBox LBN3 : Public
+    System.Windows.Forms.Label label13 : Public
+    System.Windows.Forms.TextBox TBI1 : Public
+    System.Windows.Forms.Label label14 : Public
+    System.Windows.Forms.TextBox TBS1 : Public
+    System.Windows.Forms.Label label15 : Public
+    System.Windows.Forms.TextBox TBS2 : Public
+    System.Windows.Forms.Label label16 : Public
+    System.Windows.Forms.TextBox TBI2 : Public
+    System.Windows.Forms.Label label17 : Public
+    System.Windows.Forms.TextBox TBS3 : Public
+    System.Windows.Forms.Label label18 : Public
+    System.Windows.Forms.TextBox TBI3 : Public
+    System.Windows.Forms.Label label19 : Public
+    System.Windows.Forms.Button B_Exit : Public
+    System.Windows.Forms.Button B_Osn : Public
+Class Kursovaya.OpForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button B_Exit : Public
+    System.Windows.Forms.Button B_Osn : Public
+    System.Windows.Forms.Label label11 : Public
+    System.Windows.Forms.TextBox TBfb : Public
+    System.Windows.Forms.Label label10 : Public
+    System.Windows.Forms.TextBox TBb : Public
+    System.Windows.Forms.Label label7 : Public
+    System.Windows.Forms.Label label9 : Public
+    System.Windows.Forms.Label label8 : Public
+    System.Windows.Forms.Label label6 : Public
+    System.Windows.Forms.Label label5 : Public
+    System.Windows.Forms.Label label4 : Public
+    System.Windows.Forms.Label LB_B2 : Public
+    System.Windows.Forms.Label LB_B1 : Public
+    System.Windows.Forms.ListBox LBd : Public
+    System.Windows.Forms.ListBox LBfx2 : Public
+    System.Windows.Forms.ListBox LBfx1 : Public
+    System.Windows.Forms.ListBox LBx2 : Public
+    System.Windows.Forms.ListBox LBx1 : Public
+    System.Windows.Forms.ListBox LBb2 : Public
+    System.Windows.Forms.ListBox LBb1 : Public
+    System.Windows.Forms.Label label1 : Public
+Class Kursovaya.OsForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Double, Double, Double, Double, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Label label1 : Public
+    System.Windows.Forms.Label label24 : Public
+    System.Windows.Forms.Label label15 : Public
+    System.Windows.Forms.Label label8 : Public
+    System.Windows.Forms.TextBox TBb2 : Public
+    System.Windows.Forms.Label label6 : Public
+    System.Windows.Forms.TextBox TBb1 : Public
+    System.Windows.Forms.Label label5 : Public
+    System.Windows.Forms.ListBox LBfb : Public
+    System.Windows.Forms.ListBox LBb : Public
+    System.Windows.Forms.Label label4 : Public
+    System.Windows.Forms.Label label3 : Public
+    System.Windows.Forms.Label label2 : Public
+    System.Windows.Forms.Button B_Ras : Public
+    System.Windows.Forms.TextBox TBb : Public
+    System.Windows.Forms.Label label7 : Public
+    System.Windows.Forms.TextBox TBfb : Public
+    System.Windows.Forms.Label label9 : Public
+    System.Windows.Forms.Button B_Op : Public
+    System.Windows.Forms.Label label10 : Public
+    System.Windows.Forms.TextBox TBs1 : Public
+    System.Windows.Forms.Label label11 : Public
+    System.Windows.Forms.TextBox TBs2 : Public
+    System.Windows.Forms.Label label12 : Public
+    System.Windows.Forms.TextBox TBs3 : Public
+    System.Windows.Forms.Label label13 : Public
+    System.Windows.Forms.TextBox TBs13 : Public
+    System.Windows.Forms.Label label14 : Public
+    System.Windows.Forms.Button B_In : Public
+    System.Windows.Forms.Button B_Exit : Public
+    System.Windows.Forms.Button B_Is : Public
+Class Kursovaya.IsForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
